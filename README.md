@@ -6,7 +6,7 @@
     <br>
 </h1>
 
-# Frontend VSCode Extension Pack
+# diegomscoe/ensembl
 
 A collection of extensions for Frontend Development in VS Code.
 
