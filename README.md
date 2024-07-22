@@ -1,12 +1,12 @@
 <h1 align="center">
     <br>
-    <img width="400" src="https://github.com/solodynamo/frontend-vscode-extensionpack/blob/master/logo.png" alt="Frontend VSCode Extension Pack">
+    <img width="400" src="https://github.com/solodynamo/zabla/blob/master/logo.png" alt="Frontend VSCode Extension Pack">
     <br>
     <br>
     <br>
 </h1>
 
-# diegomscoe/ensembl
+# zabla
 
 A collection of extensions for Frontend Development in VS Code.
 
@@ -31,5 +31,5 @@ These are some of my favorite extensions to make frontend development easier and
 * [VS Code Flow IDE](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide)
 
 ## Relevant Links
-* [Github](https://github.com/solodynamo/frontend-vscode-extensionpack)
-* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=solodynamo.frontend-vscode-extensionpack)
+* [Github](https://github.com/solodynamo/zabla)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=solodynamo.zabla)
